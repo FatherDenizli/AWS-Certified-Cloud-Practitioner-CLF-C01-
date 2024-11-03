@@ -20,3 +20,13 @@ B. Elasticity
 C. High availability
 
 D. Agility
+
+3- What is the main benefit of using AWS Availability Zones?
+
+A) Improved billing accuracy
+
+B) Enhanced data encryption
+
+C) Increased redundancy and fault tolerance
+
+D) Simplified user access management
