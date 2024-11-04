@@ -40,3 +40,13 @@ B) Security
 C) Cost Management
 
 D) Performance Efficiency
+
+5- The AWS Well-Architected Framework provides best practices to help you design and operate reliable, secure, efficient, and cost-effective systems in the cloud. Which pillar focuses specifically on the ability to recover from failures and meet customer demand?
+
+A) Security
+
+B) Reliability
+
+C) Performance Efficiency
+
+D) Cost Optimization
