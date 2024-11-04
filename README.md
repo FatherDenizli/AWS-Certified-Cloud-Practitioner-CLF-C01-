@@ -87,8 +87,8 @@ B) Automating infrastructure provisioning
 
 C) Implementing security best practices
 
-D) Continuously monitoring and analyzing usage **  
+D) Continuously monitoring and analyzing usage 
 <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer:A
+      Correct answer:D
     </details>
 
