@@ -23,6 +23,9 @@ B. Elasticity
 C. High availability
 
 D. Agility
+ <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
 
 3- What is the main benefit of using AWS Availability Zones?
 
@@ -33,6 +36,9 @@ B) Enhanced data encryption
 C) Increased redundancy and fault tolerance
 
 D) Simplified user access management
+ <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
 
 4- Which of the following pillars is NOT part of the AWS Well-Architected Framework?
 
@@ -43,6 +49,9 @@ B) Security
 C) Cost Management
 
 D) Performance Efficiency
+ <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
 
 5- The AWS Well-Architected Framework provides best practices to help you design and operate reliable, secure, efficient, and cost-effective systems in the cloud. Which pillar focuses specifically on the ability to recover from failures and meet customer demand?
 
@@ -53,6 +62,9 @@ B) Reliability
 C) Performance Efficiency
 
 D) Cost Optimization
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
 
 6- What is the primary purpose of the AWS Well-Architected Tool?
 
@@ -63,6 +75,9 @@ B) To monitor and manage costs
 C) To evaluate and improve cloud architectures 
 
 D) To automate infrastructure deployment
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
 
 7- In the context of the AWS Well-Architected Framework, which of the following is an important practice under the Cost Optimization pillar?
 
@@ -73,5 +88,7 @@ B) Automating infrastructure provisioning
 C) Implementing security best practices
 
 D) Continuously monitoring and analyzing usage **  
-
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:A
+    </details>
 
