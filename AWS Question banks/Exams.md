@@ -11,10 +11,28 @@ If this guide has been helpful to you please share it with others and react to t
 ### Exam List
 
 - [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 2](./AWS-Sample-Exam-2.md)
+- [AWS-Sample-Exam - 3](./AWS-Sample-Exam-3.md)
+- [AWS-Sample-Exam - 4](./AWS-Sample-Exam-4.md)
 - [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
 - [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+-
 
-## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
+
+
+  ## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
 
 ![Ebook_Cover](../images/Ebook_Cover.png)
 
