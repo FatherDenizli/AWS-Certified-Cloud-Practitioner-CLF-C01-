@@ -11,28 +11,8 @@ If this guide has been helpful to you please share it with others and react to t
 ### Exam List
 
 - [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
-- [Practice Exam - 2](./practice-exam-2.md)
-- [Practice Exam - 3](./practice-exam-3.md)
-- [Practice Exam - 4](./practice-exam-4.md)
-- [Practice Exam - 5](./practice-exam-5.md)
-- [Practice Exam - 6](./practice-exam-6.md)
-- [Practice Exam - 7](./practice-exam-7.md)
-- [Practice Exam - 8](./practice-exam-8.md)
-- [Practice Exam - 9](./practice-exam-9.md)
-- [Practice Exam - 10](./practice-exam-10.md)
-- [Practice Exam - 11](./practice-exam-11.md)
-- [Practice Exam - 12](./practice-exam-12.md)
-- [Practice Exam - 13](./practice-exam-13.md)
-- [Practice Exam - 14](./practice-exam-14.md)
-- [Practice Exam - 15](./practice-exam-15.md)
-- [Practice Exam - 16](./practice-exam-16.md)
-- [Practice Exam - 17](./practice-exam-17.md)
-- [Practice Exam - 18](./practice-exam-18.md)
-- [Practice Exam - 19](./practice-exam-19.md)
-- [Practice Exam - 20](./practice-exam-20.md)
-- [Practice Exam - 21](./practice-exam-21.md)
-- [Practice Exam - 22](./practice-exam-22.md)
-- [Practice Exam - 23](./practice-exam-23.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
 
 ## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
 
