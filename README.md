@@ -30,3 +30,13 @@ B) Enhanced data encryption
 C) Increased redundancy and fault tolerance
 
 D) Simplified user access management
+
+4- Which of the following pillars is NOT part of the AWS Well-Architected Framework?
+
+A) Operational Excellence
+
+B) Security
+
+C) Cost Management
+
+D) Performance Efficiency
