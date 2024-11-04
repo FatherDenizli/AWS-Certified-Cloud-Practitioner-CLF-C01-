@@ -11,7 +11,7 @@ C) Amazon CloudFront
 
 D) AWS WAF
  <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: C
     </details>
 
 2- The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept?
