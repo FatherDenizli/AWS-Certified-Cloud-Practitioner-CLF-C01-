@@ -50,3 +50,13 @@ B) Reliability
 C) Performance Efficiency
 
 D) Cost Optimization
+
+6- What is the primary purpose of the AWS Well-Architected Tool?
+
+A) To deploy applications on AWS
+
+B) To monitor and manage costs
+
+C) To evaluate and improve cloud architectures
+
+D) To automate infrastructure deployment
