@@ -10,7 +10,7 @@ If this guide has been helpful to you please share it with others and react to t
 
 ### Exam List
 
-- [Practice Exam - 1](./practice-exam-1.md)
+- [AWS-Sample-Exam - 1](./AWS-Sample-Exam-1.md)
 - [Practice Exam - 2](./practice-exam-2.md)
 - [Practice Exam - 3](./practice-exam-3.md)
 - [Practice Exam - 4](./practice-exam-4.md)
