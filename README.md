@@ -57,6 +57,18 @@ A) To deploy applications on AWS
 
 B) To monitor and manage costs
 
-C) To evaluate and improve cloud architectures
+C) To evaluate and improve cloud architectures 
 
 D) To automate infrastructure deployment
+
+7- In the context of the AWS Well-Architected Framework, which of the following is an important practice under the Cost Optimization pillar?
+
+A) Using only on-demand instances
+
+B) Automating infrastructure provisioning
+
+C) Implementing security best practices
+
+D) Continuously monitoring and analyzing usage **  
+
+
