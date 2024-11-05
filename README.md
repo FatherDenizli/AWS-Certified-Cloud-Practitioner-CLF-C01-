@@ -91,3 +91,15 @@ D) Continuously monitoring and analyzing usage
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:D
     </details>
+Which of the following is an example of AWS’s responsibility under the Shared Responsibility Model?
+
+A) Managing access control lists (ACLs)
+
+B) Patching the hypervisor
+
+C) Encrypting the customer's data in transit
+
+D) Managing encryption keys in AWS KMS
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
