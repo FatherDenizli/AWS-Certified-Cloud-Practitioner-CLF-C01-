@@ -1,4 +1,4 @@
-# AWS-Certified-Cloud-Practitioner-CLF-C01
+# AWS-Certified-Cloud-Practitioner-CLF-C01/CLF-C02
 # Questions we need to know
 
 1- Which AWS service provides a global content delivery network (CDN)? 
