@@ -103,3 +103,15 @@ D) Managing encryption keys in AWS KMS
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:B
     </details>
+    Which of the following does the customer NOT manage under the AWS Shared Responsibility Model?
+
+A) Configuring IAM users and roles
+
+B) Monitoring and logging AWS infrastructure performance
+
+C) Securing applications running on EC2
+
+D) Applying security patches to the operating system on EC2
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
