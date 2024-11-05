@@ -91,7 +91,7 @@ D) Continuously monitoring and analyzing usage
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:D
     </details>
-Which of the following is an example of AWS’s responsibility under the Shared Responsibility Model?
+8- Which of the following is an example of AWS’s responsibility under the Shared Responsibility Model?
 
 A) Managing access control lists (ACLs)
 
@@ -103,7 +103,7 @@ D) Managing encryption keys in AWS KMS
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:B
     </details>
-    Which of the following does the customer NOT manage under the AWS Shared Responsibility Model?
+ 9-  Which of the following does the customer NOT manage under the AWS Shared Responsibility Model?
 
 A) Configuring IAM users and roles
 
@@ -112,6 +112,18 @@ B) Monitoring and logging AWS infrastructure performance
 C) Securing applications running on EC2
 
 D) Applying security patches to the operating system on EC2
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
+ 10- In terms of the Shared Responsibility Model, who is responsible for the security of the guest operating system running on an EC2 instance?
+
+A) AWS
+
+B) The customer
+
+C) AWS and the customer
+
+D) The security team of the instance's region
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:B
     </details>
