@@ -149,7 +149,6 @@ B) The s3:PutObject action is denied due to explicit deny overriding any allow
 C) The s3:PutObject action is allowed due to implicit permission inheritance
 
 D) The IAM role will fail to execute any action on Amazon S3
-
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:B
     </details>
@@ -163,14 +162,22 @@ B) Attach an IAM policy directly to the user in the other account with the neces
 C) Use AWS Organizations to grant cross-account access
 
 D) Attach a role to the IAM user in the other account and allow them to assume it via a trust relationship
-
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:A
     </details>
 
+13- How can you restrict the use of an IAM user's API keys to a specific AWS region, preventing them from making API calls in any other region?
 
+A) Use IAM policy conditions with the aws:RequestedRegion condition key
 
+B) Attach an IAM policy to deny access to all regions except the specified one
 
+C) Configure the IAM user’s profile to limit region access
+
+D) Use AWS Config rules to enforce region-based access control
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:A
+    </details>
 
 
 
