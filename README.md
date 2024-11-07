@@ -201,8 +201,18 @@ D) 20
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:B
     </details>
+16- When using AWS Organizations to manage IAM roles and policies across multiple AWS accounts, which of the following best describes the relationship between Service Control Policies (SCPs) and IAM policies?
 
+A) SCPs override IAM policies, and IAM policies cannot be used in accounts where an SCP is in place
 
+B) SCPs set the boundary of allowed actions at the organization level, but IAM policies are evaluated within the account based on the permissions granted
+
+C) SCPs provide permissions at the user level, and IAM policies provide permissions at the organization level
+
+D) IAM policies and SCPs are mutually exclusive; only one of them can be applied to any given user
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
 
 
 
