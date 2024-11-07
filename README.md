@@ -127,3 +127,16 @@ D) The security team of the instance's region
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:B
     </details>
+
+Which of the following IAM features allows for automatic policy evaluation when a user attempts to access a resource?
+
+A) IAM Access Analyzer
+
+B) AWS Organizations Service Control Policies (SCPs)
+
+C) IAM Policy Simulator
+
+D) IAM Policy Evaluation Engine    
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:D
+    </details>
