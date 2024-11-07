@@ -154,6 +154,31 @@ D) The IAM role will fail to execute any action on Amazon S3
       Correct answer:B
     </details>
 
+12- You are configuring cross-account access to an S3 bucket for an IAM user in another AWS account. What is the best approach to achieve this?
+
+A) Attach a bucket policy to the S3 bucket granting the IAM user permission
+
+B) Attach an IAM policy directly to the user in the other account with the necessary S3 permissions
+
+C) Use AWS Organizations to grant cross-account access
+
+D) Attach a role to the IAM user in the other account and allow them to assume it via a trust relationship
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:A
+    </details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
