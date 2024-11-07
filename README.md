@@ -189,6 +189,18 @@ D) GetFederationToken
       Correct answer:B
     </details>
 
+15- What is the maximum number of managed IAM policies that can be attached to a single IAM role?
+
+A) 5
+
+B) 10
+
+C) 15
+
+D) 20
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
 
 
 
