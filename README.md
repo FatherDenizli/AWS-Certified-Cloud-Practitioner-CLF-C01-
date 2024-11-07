@@ -178,8 +178,16 @@ D) Use AWS Config rules to enforce region-based access control
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:A
     </details>
+    
+14- Which of the following IAM actions allows an administrator to provide an IAM user with temporary credentials with a specific expiration time?
 
-
+A) Attach an inline policy with an expiration condition
+B) AssumeRole
+C) CreateAccessKey
+D) GetFederationToken
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
 
 
 
