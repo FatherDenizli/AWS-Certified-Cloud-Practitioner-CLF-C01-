@@ -128,7 +128,7 @@ D) The security team of the instance's region
       Correct answer:B
     </details>
 
-Which of the following IAM features allows for automatic policy evaluation when a user attempts to access a resource?
+11- Which of the following IAM features allows for automatic policy evaluation when a user attempts to access a resource?
 
 A) IAM Access Analyzer
 
@@ -140,3 +140,20 @@ D) IAM Policy Evaluation Engine
 <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer:D
     </details>
+12- You have attached a policy to an IAM role that grants full access to all Amazon S3 actions. What happens if another policy attached to the same role denies access to s3:PutObject?
+
+A) The s3:PutObject action is allowed due to the permissive nature of the full access policy
+
+B) The s3:PutObject action is denied due to explicit deny overriding any allow
+
+C) The s3:PutObject action is allowed due to implicit permission inheritance
+
+D) The IAM role will fail to execute any action on Amazon S3
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer:B
+    </details>
+
+
+
+
